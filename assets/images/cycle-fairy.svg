@@ -1,0 +1,27 @@
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fff1f6"/>
+      <stop offset="100%" stop-color="#eaf3de"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="180" cy="140" r="80" fill="#ffd5e7" opacity="0.8"/>
+  <circle cx="770" cy="120" r="90" fill="#dfeec9" opacity="0.9"/>
+  <rect x="285" y="80" width="330" height="560" rx="42" fill="#fffefe"/>
+  <rect x="315" y="120" width="270" height="54" rx="18" fill="#f9e7f1"/>
+  <circle cx="360" cy="145" r="14" fill="#ff7cb0"/>
+  <rect x="382" y="132" width="120" height="14" rx="7" fill="#eec7d8"/>
+  <rect x="314" y="210" width="270" height="116" rx="28" fill="#f9dbe9"/>
+  <rect x="348" y="236" width="72" height="72" rx="18" fill="#ffffff" opacity="0.7"/>
+  <text x="440" y="270" font-family="Arial" font-size="34" fill="#456b3d" font-weight="700">19</text>
+  <text x="440" y="300" font-family="Arial" font-size="18" fill="#789653">Flow</text>
+  <rect x="314" y="350" width="270" height="180" rx="26" fill="#f5f8f0"/>
+  <rect x="336" y="372" width="80" height="20" rx="10" fill="#ff9ec1"/>
+  <rect x="336" y="404" width="230" height="16" rx="8" fill="#deebcd"/>
+  <rect x="336" y="430" width="210" height="16" rx="8" fill="#deebcd"/>
+  <rect x="336" y="456" width="180" height="16" rx="8" fill="#deebcd"/>
+  <rect x="336" y="482" width="200" height="16" rx="8" fill="#deebcd"/>
+  <rect x="508" y="210" width="80" height="72" rx="18" fill="#e4f1d6"/>
+  <circle cx="548" cy="246" r="18" fill="#ff9ec1"/>
+</svg>

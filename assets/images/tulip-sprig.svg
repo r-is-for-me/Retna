@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="480" viewBox="0 0 320 480" fill="none">
+  <defs>
+    <linearGradient id="petal" x1="108" y1="77" x2="222" y2="229" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF0F5"/>
+      <stop offset=".48" stop-color="#F6BBD0"/>
+      <stop offset="1" stop-color="#E98EAF"/>
+    </linearGradient>
+    <linearGradient id="petal-light" x1="156" y1="55" x2="191" y2="208" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF6F8"/>
+      <stop offset="1" stop-color="#F2AFC7"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="107" y1="242" x2="210" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9D9A9"/>
+      <stop offset="1" stop-color="#789653"/>
+    </linearGradient>
+    <linearGradient id="stem" x1="145" y1="215" x2="183" y2="444" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8DA86A"/>
+      <stop offset="1" stop-color="#557A4B"/>
+    </linearGradient>
+  </defs>
+  <path d="M159 205C158 280 167 358 174 445" stroke="url(#stem)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M162 286C133 253 99 241 65 250C78 291 107 330 166 338" fill="url(#leaf)"/>
+  <path d="M163 331C191 283 225 269 261 277C248 319 218 354 168 373" fill="url(#leaf)"/>
+  <path d="M163 321C130 292 101 270 72 256" stroke="#E4EBCF" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
+  <path d="M168 356C198 325 225 301 251 283" stroke="#DDE8C7" stroke-opacity=".58" stroke-width="2" stroke-linecap="round"/>
+  <path d="M157 205C125 192 104 164 109 126C112 99 128 78 148 62C159 87 163 111 162 139C180 102 202 81 224 73C231 105 225 137 204 163C220 146 238 139 253 139C253 179 227 204 195 215C181 220 168 217 157 205Z" fill="url(#petal)"/>
+  <path d="M158 205C139 182 137 149 146 116C152 95 159 78 171 58C192 80 202 111 197 145C193 173 180 195 158 205Z" fill="url(#petal-light)"/>
+  <path d="M116 140C120 170 137 190 158 205" stroke="#E99DB9" stroke-opacity=".62" stroke-width="2" stroke-linecap="round"/>
+  <path d="M216 100C218 139 200 177 175 199" stroke="#D981A3" stroke-opacity=".48" stroke-width="2" stroke-linecap="round"/>
+  <path d="M171 77C180 111 180 157 160 194" stroke="#FFFFFF" stroke-opacity=".58" stroke-width="2" stroke-linecap="round"/>
+  <path d="M152 211C160 217 170 218 179 214" stroke="#6E8E56" stroke-opacity=".65" stroke-width="2" stroke-linecap="round"/>
+</svg>

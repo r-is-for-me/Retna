@@ -1,0 +1,27 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="petal" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffd5e7"/>
+      <stop offset="100%" stop-color="#f69ec7"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" x2="1">
+      <stop offset="0%" stop-color="#dce8b8"/>
+      <stop offset="100%" stop-color="#7ea260"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.92">
+    <path d="M259 160C245 111 300 80 340 110C380 140 382 197 344 222C304 248 260 220 259 160Z" fill="url(#petal)"/>
+    <path d="M259 160C272 110 218 79 178 110C138 140 136 198 174 222C213 247 257 220 259 160Z" fill="#f7d1e5"/>
+    <path d="M248 199C287 194 317 220 321 260C328 311 300 343 254 348C208 353 171 317 170 267C170 218 206 200 248 199Z" fill="url(#petal)"/>
+    <path d="M242 112C225 87 212 154 210 175C181 166 160 174 138 190C154 120 205 69 242 112Z" fill="#ddf0b6"/>
+    <path d="M278 112C294 87 307 154 310 175C339 166 360 174 382 190C366 120 315 69 278 112Z" fill="#ddf0b6"/>
+    <path d="M204 285C144 267 122 320 136 360C155 410 217 407 224 356C232 317 230 297 204 285Z" fill="url(#leaf)"/>
+    <path d="M314 287C374 269 396 322 382 362C363 412 301 409 294 358C286 319 288 299 314 287Z" fill="url(#leaf)"/>
+    <path d="M246 340C238 248 250 200 255 162" stroke="#6d9155" stroke-width="9" stroke-linecap="round"/>
+    <path d="M255 160C262 196 263 248 253 340" stroke="#6d9155" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="252" cy="198" r="9" fill="#fff5fb"/>
+    <circle cx="220" cy="210" r="8" fill="#fff5fb" opacity="0.7"/>
+    <circle cx="286" cy="210" r="8" fill="#fff5fb" opacity="0.7"/>
+    <circle cx="252" cy="244" r="7" fill="#fff5fb" opacity="0.8"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg width="900" height="700" viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fff7fb"/>
+      <stop offset="100%" stop-color="#f2f8ed"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="700" cy="120" r="100" fill="#f7ddea"/>
+  <circle cx="210" cy="160" r="80" fill="#dfeec9"/>
+  <rect x="120" y="130" width="660" height="430" rx="30" fill="#fffdfd" stroke="#ecd9e2"/>
+  <rect x="165" y="175" width="180" height="22" rx="11" fill="#ff9ec1"/>
+  <text x="165" y="280" font-family="Arial" font-size="68" fill="#35442E" font-weight="700">Launch</text>
+  <text x="165" y="350" font-family="Arial" font-size="52" fill="#456b3d" font-weight="700">Something</text>
+  <text x="165" y="412" font-family="Arial" font-size="52" fill="#456b3d" font-weight="700">Worth</text>
+  <text x="165" y="474" font-family="Arial" font-size="52" fill="#456b3d" font-weight="700">Remembering</text>
+  <rect x="600" y="220" width="120" height="170" rx="24" fill="#f8d3e5"/>
+  <circle cx="660" cy="293" r="44" fill="#fffefc"/>
+  <path d="M642 298L652 308L677 283" stroke="#ff6fae" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="560" y="420" width="180" height="44" rx="22" fill="#456b3d"/>
+</svg>
